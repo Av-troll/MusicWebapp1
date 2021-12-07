@@ -1,0 +1,53 @@
+.volume_div{
+    float:left;
+}
+.volume_div_img{
+    border-radius: 100px;
+    width:200px;
+
+}
+
+#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size:24px;
+    width:100%;
+    margin:0;
+}
+
+.note{
+    font-size:15px;
+    color: black;
+}
+
+.speed_div{
+    float:right;
+}
+.speed_div_img{
+    border-radius: 100px;
+    width:200px;
+
+}
+
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_button{
+    width:130px;
+    font-size:23px;
+}
+
+canvas{
+    border:5px ridge cadetblue;
+    border-radius: 15%;
+    box-shadow:10px 10px 10px gray;
+}
